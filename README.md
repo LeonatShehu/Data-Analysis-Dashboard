@@ -5,3 +5,12 @@ The CompShop wants to create an annual sales report for 2025. So that, the owner
 
 ## Dataset
 - <a href="https://github.com/LeonatShehu/Data-Analysis-Dashboard/blob/main/Dataset-Shitje-Kompjuterike.xlsx">Dataset
+
+## Questions (KPIs)
+- Measures total revenue
+- Measures overall profitability
+- Monthly Sales	Tracks performance trends
+- Monthly Profit	Measures profit seasonality
+- Product Category Sales %	Identifies best-selling categories
+- Number of Products Sold	Measures sales volume
+- Sales by Region/City Shows geographic performance
