@@ -25,4 +25,3 @@ The CompShop wants to create an annual sales report for 2025. So that, the owner
 
 ## Dashboard
 ![Uploading dashboard-screenshot.png…]()
-
