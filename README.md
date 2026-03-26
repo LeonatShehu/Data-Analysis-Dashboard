@@ -24,4 +24,5 @@ The CompShop wants to create an annual sales report for 2025. So that, the owner
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-![Uploading dashboard-screenshot.png…]()
+<img width="1416" height="869" alt="dashboard-screenshot" src="https://github.com/user-attachments/assets/822e23de-35ae-4aa6-9135-9766784fe7bb" />
+
