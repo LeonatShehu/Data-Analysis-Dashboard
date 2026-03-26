@@ -3,5 +3,6 @@
 ## Project Objective
 The CompShop wants to create an annual sales report for 2025. So that, the owner of the store can understand their customers and grow more sales in 2026.
 
-## dataset
-https://github.com/LeonatShehu/Data-Analysis-Dashboard/blob/main/Dataset-Shitje-Kompjuterike.xlsx
+## dataset used
+- <a href="https://github.com/LeonatShehu/Data-Analysis-Dashboard/blob/main/Dataset-Shitje-Kompjuterike.xlsx">Compshop data(/a)
+- <a href="https://github.com/LeonatShehu/Data-Analysis-Dashboard/blob/main/Dataset-Shitje-Kompjuterike.xlsx">Dataset</a)
